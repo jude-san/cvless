@@ -1,9 +1,9 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+title: Jude
+description: Jude theme for a beautiful online CV
+taglong: Juse theme for a beautiful online CV
+tagshort: Jude theme
 url: https://cvless.netlify.app
 baseurl: ""
 permalink: pretty
@@ -12,19 +12,19 @@ repo: https://github.com/username/username.github.io
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: jude Koomson
+  email: judekhay@gmail.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
 
 social:
-  facebook: username
-  github: username
+  facebook: Judenyamekye
+  github: jude-san
   instagram: username
-  linkedin: username
+  linkedin: wwww.linkedin.com/in/judenyamekye
   stackoverflow: 0000000/username
-  twitter: username
+  twitter: judesan
 
 # build settings
 
